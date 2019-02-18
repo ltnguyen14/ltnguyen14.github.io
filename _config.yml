@@ -11,7 +11,7 @@ picture: assets/images/profile.jpeg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: assets/resume.pdf
+resume-url: assets/Resume.pdf
 
 # url: https://koppl.in/indigo
 url: http://ltnguyen14.github.io
