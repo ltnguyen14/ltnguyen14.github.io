@@ -14,3 +14,5 @@ This was my senior thesis, which basically compare the effectiveness of three di
 Here is the flow graph for the project:
 
 <img src="https://github.com/ltnguyen14/Quant_stock/blob/master/Diagram.png?raw=true" alt="Project flowgraph">
+
+You can check out the project <a href="https://github.com/ltnguyen14/Quant_stock"> here </a>
